@@ -32,7 +32,7 @@ When I'm not working with data, you can usually find me solving strategy puzzle 
 - 🌱 **Python for Data Analysis:** Strengthening my foundations in Python to handle more complex data manipulation and scripting alongside SQL.
 - 📊 **Advanced DAX & Data Modeling:** Continuously refining my ability to write highly efficient measures and optimize relational models for Power BI dashboards.
 - 🤖 **Predictive Analytics:** Exploring how to bridge the gap between historical reporting and future forecasting to drive better business strategies.
--
+
 
 ## 🛠️ Technical Skillset
 
