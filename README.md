@@ -26,7 +26,7 @@ When I'm not working with data, you can usually find me solving strategy puzzle 
 - **Afriment Internship:** Serving as Deputy Team Lead for Pod C, managing team operations, daily attendance reporting, and data visualization deliverables.
 - **Capstone Documentation:** Structuring the final GitHub repository and README for my TS Academy Logistics Performance Dashboard.
 - **Mentorship & Strategy:** Translating my transition from field engineering to tech into actionable insights and curriculum building.
--
+
 ## 🌱 Currently Learning 
 
 - 🌱 **Python for Data Analysis:** Strengthening my foundations in Python to handle more complex data manipulation and scripting alongside SQL.
