@@ -40,14 +40,14 @@ When I'm not working with data, you can usually find me solving strategy puzzle 
 
 #### Data Visualization & BI
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge" />
+  <img src="https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge" />
 </p>
 
 #### Databases & Data Transformation
 <p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query Badge" />
+  <img src="https://img.shields.io/badge/SQL-Beginner-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Power_Query-Intermediate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query Badge" />
 </p>
 
 #### Environment & Tools
