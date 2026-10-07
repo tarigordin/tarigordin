@@ -19,7 +19,7 @@ Recently, I completed an end-to-end Logistics Performance Dashboard for my TS Ac
 When I'm not working with data, you can usually find me solving strategy puzzle games or exploring sleek, minimalist design aesthetics.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://tarigordin.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
