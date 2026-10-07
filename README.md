@@ -21,7 +21,7 @@ When I'm not working with data, you can usually find me solving strategy puzzle 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://tarigordin.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Working On
 
 - **Afriment Internship:** Serving as Deputy Team Lead for Pod C, managing team operations, daily attendance reporting, and data visualization deliverables.
 - **Capstone Documentation:** Structuring the final GitHub repository and README for my TS Academy Logistics Performance Dashboard.
